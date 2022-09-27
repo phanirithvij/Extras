@@ -1,5 +1,5 @@
 {
-    "version": "10.1.0",
+    "version": "10.0.26",
     "description": "Implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies",
     "homepage": "https://tomcat.apache.org",
     "license": "Apache-2.0",
@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://www.apache.org/dist/tomcat/tomcat-10/v10.1.0/bin/apache-tomcat-10.1.0-windows-x64.zip",
-            "hash": "sha512:c5576f9da4ea80ff894cad2a7a6ad04eb1a95eeba9a40afef33c49e5b9f46a34125e6e3b0645f41489ddac3b4a57c83950340d4e759c063566b5c988c4dc3be5"
+            "url": "https://www.apache.org/dist/tomcat/tomcat-10/v10.0.26/bin/apache-tomcat-10.0.26-windows-x64.zip",
+            "hash": "sha512:68904ad22a8e60b523f1da29573e190c44122dfafeacaec990253b254ebb49f4e12302d2079c0432fd888e7f2e7dfc3527b07e34b23a29577d9eca1f1a830c18"
         },
         "32bit": {
-            "url": "https://www.apache.org/dist/tomcat/tomcat-10/v10.1.0/bin/apache-tomcat-10.1.0-windows-x86.zip",
-            "hash": "sha512:c2c07788961e519680888c769662c4e7a522c6988bd095ba6124acc623e72c1216e3103683da5305f03a5c698db61e74eced871550067b09c870059bcb69b5ff"
+            "url": "https://www.apache.org/dist/tomcat/tomcat-10/v10.0.26/bin/apache-tomcat-10.0.26-windows-x86.zip",
+            "hash": "sha512:ae60611cb8fb597d8789367d4a36dc23d652c190a41c31e1467a19036e6088c64541b127e238029ac00a3f926ed26666d3b3daaf482facea2c7d663f23688f63"
         }
     },
-    "extract_dir": "apache-tomcat-10.1.0",
+    "extract_dir": "apache-tomcat-10.0.26",
     "bin": "bin\\catalina.bat",
     "env_set": {
         "CATALINA_HOME": "$dir",

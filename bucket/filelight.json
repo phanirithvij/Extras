@@ -1,12 +1,12 @@
 {
-    "version": "22.08.2-1150",
+    "version": "22.08.2-1151",
     "description": "Disk usage visualizer",
     "homepage": "https://apps.kde.org/filelight",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://binary-factory.kde.org/job/Filelight_Release_win64/lastSuccessfulBuild/artifact/filelight-22.08.2-1150-windows-msvc2019_64-cl.exe#/dl.7z",
-            "hash": "d4600ffb3101663f329b1bbf89ce984a19baab23f0cbfb312a3ff5ef43cd241e"
+            "url": "https://binary-factory.kde.org/job/Filelight_Release_win64/lastSuccessfulBuild/artifact/filelight-22.08.2-1151-windows-msvc2019_64-cl.exe#/dl.7z",
+            "hash": "cbb03dfe2a5b63b1a690d1473b9af8c7148a19bf8e02b60f9ae5de7b008dec75"
         }
     },
     "pre_install": [

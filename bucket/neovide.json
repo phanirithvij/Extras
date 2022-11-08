@@ -1,5 +1,5 @@
 {
-    "version": "0.10.2",
+    "version": "0.10.3",
     "description": "A simple GUI for Neovim",
     "homepage": "https://github.com/Kethku/neovide",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Kethku/neovide/releases/download/0.10.2/neovide-windows.zip",
-            "hash": "d2a4662d85b1e16863be50a86e2783573707fdd611055e84957a57a7d5e8c18c"
+            "url": "https://github.com/Kethku/neovide/releases/download/0.10.3/neovide-windows.zip",
+            "hash": "ec54f811e5cb271102751694124380f4a58ae5edf99a1a267e8b070a362f8297"
         }
     },
     "bin": "neovide.exe",

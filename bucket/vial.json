@@ -1,10 +1,10 @@
 {
-    "version": "0.6",
+    "version": "0.5.2",
     "description": "A graphical keyboard configuration tool for QMK powered keyboards.",
     "homepage": "https://get.vial.today/",
     "license": "GPL-2.0-only",
-    "url": "https://github.com/vial-kb/vial-gui/releases/download/v0.6/Vial-v0.6-portable.zip",
-    "hash": "51b6285d042964e6458b97d5efbdc1a89bb20fce679a9b3672bcde71e4fa926e",
+    "url": "https://github.com/vial-kb/vial-gui/releases/download/v0.5.2/Vial-v0.5.2-portable.zip",
+    "hash": "7ecc433feb58f1d1207d840fcb936523557859fe8fa10efe5fc74cd4422b00ac",
     "extract_dir": "Vial",
     "shortcuts": [
         [

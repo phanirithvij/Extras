@@ -1,12 +1,12 @@
 {
-    "version": "6.5.0",
+    "version": "6.5.1",
     "description": "Visualizer for deep learning and machine learning models",
     "homepage": "https://netron.app/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lutzroeder/netron/releases/download/v6.5.0/Netron-Setup-6.5.0.exe#/dl.7z",
-            "hash": "e9e625f52fc3ef8ff18c045c2b866db6c99aea193f1d9281961b28b6cd46a44d",
+            "url": "https://github.com/lutzroeder/netron/releases/download/v6.5.1/Netron-Setup-6.5.1.exe#/dl.7z",
+            "hash": "sha512:760f6ef30b0ae813dbaa856c95d86ef8af4b486e79f139f166e1b8b10576d45e9a9eb3c1cc44e9e56af9505c937412b74a985a01be3792e48f127165f1bc298b",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\" -Force -Recurse"

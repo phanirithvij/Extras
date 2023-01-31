@@ -1,12 +1,12 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "description": "An all-rounder tool to set up and customize Windows 11",
     "homepage": "https://github.com/builtbybel/ThisIsWin11",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/builtbybel/ThisIsWin11/releases/download/1.4.0/TIW11.zip",
-            "hash": "cea97a833c765367fa9d8556458fb0156446b56d108d6bde17ec66b4ce567f81"
+            "url": "https://github.com/builtbybel/ThisIsWin11/releases/download/1.4.1/TIW11.zip",
+            "hash": "70aee4a021c2c11d58045a52712e73770385eeb1cb96743988040516e1e69b4b"
         }
     },
     "shortcuts": [

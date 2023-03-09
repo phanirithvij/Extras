@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.3",
     "description": "K8s tool for creating, validating, debugging and managing manifests.",
     "homepage": "https://kubeshop.github.io/monokle",
     "license": "MIT",
@@ -10,8 +10,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kubeshop/monokle/releases/download/v2.0.0/Monokle-win-2.0.0-x64.exe#/dl.7z",
-            "hash": "sha512:34a7017e86c89085f360f2391714c29446f1889f340f4f9bbef6ce2b7aa49e4a642d26ed44bdd69ba7300ed4e7729131c91407b5783873cff124391ee55ffc48"
+            "url": "https://github.com/kubeshop/monokle/releases/download/v2.0.3/Monokle-win-2.0.3-x64.exe#/dl.7z",
+            "hash": "sha512:9456309e66b1509db4c0ab7f0bc7695fe1a0660e105309d7ef215774a9f84f4092a76a5386bec0439f1830a0a8dd4f53ec31d85912351da4cd57ec6667414be3"
         }
     },
     "pre_install": [

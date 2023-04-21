@@ -1,13 +1,13 @@
 {
-    "version": "6.15.1",
+    "version": "6.16.0",
     "description": "Powerful and easy to use e-book manager",
     "homepage": "https://calibre-ebook.com",
     "license": "GPL-3.0-only",
     "notes": "Calibre drops support for 32-bit CPUs after v6.0.0, if you are running a 32-bit system, please install calibre-normal5 from Versions bucket.",
     "architecture": {
         "64bit": {
-            "url": "https://download.calibre-ebook.com/6.15.1/calibre-64bit-6.15.1.msi",
-            "hash": "bdd4174958b3eddf8009c836f56f8adce5c83744f9beaf5694f811f47b8c27eb",
+            "url": "https://download.calibre-ebook.com/6.16.0/calibre-64bit-6.16.0.msi",
+            "hash": "sha512:e1d2577ff47cb19e5e4c80564c3c7bf9699ddccbbd48e4d68a4e1be747fda3adc44b0bff877321d4233f808298156fa185d4de19174e6abaaafdb31ce2a4a9f2",
             "extract_dir": "PFiles\\Calibre2"
         }
     },

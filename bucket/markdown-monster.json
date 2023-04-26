@@ -1,5 +1,5 @@
 {
-    "version": "2.8.16",
+    "version": "2.8.18",
     "description": "Markdown editing and weblog publishing tool",
     "homepage": "https://markdownmonster.west-wind.com",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://markdownmonster.west-wind.com/purchase.aspx#License"
     },
     "url": "https://github.com/RickStrahl/MarkdownMonsterReleases/raw/master/CurrentRelease/MarkdownMonsterPortable.zip",
-    "hash": "bdf87ca6cf31427e76a0ed1e5b54d160b0b01df5852f0fb60e7fe2ba74d7abd9",
+    "hash": "a57971d58f392faa7e0b456f36df1a62ec3ef4385138206e67b83f266ccf1f09",
     "bin": "mmcli.exe",
     "shortcuts": [
         [

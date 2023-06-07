@@ -1,12 +1,12 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "description": "FAST Kubernetes manifests validator, with support for Custom Resources.",
     "homepage": "https://github.com/yannh/kubeconform",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yannh/kubeconform/releases/download/v0.6.1/kubeconform-windows-amd64.zip",
-            "hash": "1e2b78de510de3dab46f7d96bc6b33806dcf1a732354424c6c414fc4697931b9"
+            "url": "https://github.com/yannh/kubeconform/releases/download/v0.6.2/kubeconform-windows-amd64.zip",
+            "hash": "a5e5ca6397c1dc2b9649fa983ff39fedc8b41d1f1a485e993e8f9868756edfc0"
         }
     },
     "bin": "kubeconform.exe",

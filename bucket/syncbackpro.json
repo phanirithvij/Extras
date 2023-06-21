@@ -1,5 +1,5 @@
 {
-    "version": "10.2.99.0",
+    "version": "10.2.122.0",
     "description": "Backup up and synchronize files to several resources, including an internal or external drive, to different media (USB thumb drive, CD, DVD), to a remote server (NAS, FTP, Windows server) and to a cloud storage provider.",
     "homepage": "https://www.2brightsparks.com/syncback/sbpro.html",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.2brightsparks.com/assets/software/SyncBackPro64_Setup_NI.zip",
-            "hash": "df8f34c53b99ae24d46111db836d4aa4a2c3b52868fa91aa9eac7b69bd3523f9"
+            "hash": "0c271f24a7fd41fa2b0baae504b90a56dcfdd17f5f87832e506b742a889a10cc"
         },
         "32bit": {
             "url": "https://www.2brightsparks.com/assets/software/SyncBackPro_Setup_NI.zip",
-            "hash": "cbe629fec620fd8af90e71382a78400ed1ed9292649ce4d60a8027b0d3483297"
+            "hash": "5f2ae32c049cb64b57827b2921e506ccd930e80b1731a2650a7f7cdea65db4d1"
         }
     },
     "post_install": "Set-Content \"$dir\\SettingsFolder.ini\" @('[Settings]', 'Folder=%THISPATH%settings', 'Restricted=1') -Encoding ASCII",

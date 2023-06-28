@@ -1,5 +1,5 @@
 {
-    "version": "0.202.0",
+    "version": "0.203.0",
     "description": "A desktop debugging platform for mobile developers",
     "homepage": "https://fbflipper.com",
     "license": "MIT",
@@ -9,8 +9,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/facebook/flipper/releases/download/v0.202.0/Flipper-win.zip",
-            "hash": "e1f4d4b874b752164aa139bfe366333b897f40961d3855baaf9291dadde9c1d0"
+            "url": "https://github.com/facebook/flipper/releases/download/v0.203.0/Flipper-win.zip",
+            "hash": "eccf1177db64ac85a021c2fa11a5f5b348227ca9cf9eb1ebf265009e60c6485c"
         }
     },
     "bin": "Flipper.exe",

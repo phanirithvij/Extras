@@ -1,5 +1,5 @@
 {
-    "version": "3.3.4",
+    "version": "3.4.0",
     "description": "Java-based desktop text editor with live preview, string interpolation, and formulas",
     "homepage": "https://github.com/DaveJarvis/keenwrite",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DaveJarvis/keenwrite/releases/download/3.3.4/keenwrite.exe#/dl.7z",
-            "hash": "6cb7b9a166d6e967a7f717c5142eb9048e5acdc78dfc7e04c3795cacb1d9675b"
+            "url": "https://github.com/DaveJarvis/keenwrite/releases/download/3.4.0/keenwrite.exe#/dl.7z",
+            "hash": "112bde3e77c36eec44414a5c6b27aa0e2b33294692aedf14e276a67add31f4f3"
         }
     },
     "pre_install": "Expand-7zipArchive \"$dir\\dl\" \"$dir\" -Removal",

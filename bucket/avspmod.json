@@ -1,16 +1,16 @@
 {
-    "version": "2.7.4.7",
+    "version": "2.7.5.0",
     "description": "An enhanced version of AvsP for editing and previewing AviSynth scripts",
     "homepage": "https://github.com/gispos/AvsPmod",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gispos/AvsPmod/releases/download/2.7.4.7/AvsPmod_v2.7.4.7_.Windows_x86-64.zip",
-            "hash": "f30b711f4920f9e5a941e2cfb6ad4f2e0c47473b95c3afff9b0e64c433f426eb"
+            "url": "https://github.com/gispos/AvsPmod/releases/download/2.7.5.0/AvsPmod_v2.7.5.0_.Windows_x86-64.zip",
+            "hash": "4d5ace563013a9f7261c8867af8df1a9304ee67a06b269e5b902f8510f5bf240"
         },
         "32bit": {
-            "url": "https://github.com/gispos/AvsPmod/releases/download/2.7.4.7/AvsPmod_v2.7.4.7_.Windows_x86-32.zip",
-            "hash": "fa8b49d474803c9ddf16c11aa719473442a3534eaee8a4617f0781d84b3832ba"
+            "url": "https://github.com/gispos/AvsPmod/releases/download/2.7.5.0/AvsPmod_v2.7.5.0_.Windows_x86-32.zip",
+            "hash": "cfa8e816c42536fad97ad405370e6e3ce98c6f41a050d311cdbca00228aaebc9"
         }
     },
     "extract_dir": "AvsPmod",

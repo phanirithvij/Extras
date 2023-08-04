@@ -1,12 +1,12 @@
 {
-    "version": "1.8.9",
+    "version": "1.8.10",
     "description": "GraphQL IDE for better development workflows (GraphQL subscriptions, interactive docs and collaboration)",
     "homepage": "https://github.com/prisma-labs/graphql-playground",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/prisma-labs/graphql-playground/releases/download/v1.8.9/graphql-playground-electron-setup-1.8.9.exe#/dl.7z",
-            "hash": "sha512:7d2db2ad5cde4c1de06391b0fd2c66e35e33032311db81fe85b95de8d40329d6d0119d3f4d1608e53db95151e64a40ceadc93fefb3b332b9972b10a141bd4381",
+            "url": "https://github.com/prisma-labs/graphql-playground/releases/download/v1.8.10/graphql-playground-electron-setup-1.8.10.exe#/dl.7z",
+            "hash": "sha512:30b6704409ef695b23458e33376cc222631d3d69e2123059250b8ad3cf29cab0252554ac0e0814bb3c9a8650c042603ad73fd84604ef9642859a6932573cf8d2",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",

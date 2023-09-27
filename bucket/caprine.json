@@ -1,12 +1,12 @@
 {
-    "version": "2.58.3",
+    "version": "2.59.0",
     "description": "Elegant Facebook Messenger desktop app",
     "homepage": "https://sindresorhus.com/caprine/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sindresorhus/caprine/releases/download/v2.58.3/Caprine-Setup-2.58.3.exe#/dl.7z",
-            "hash": "0c2e4ac0a837d911165901959f0c0e9ad795ddb0241c812f4387f0124c3af502",
+            "url": "https://github.com/sindresorhus/caprine/releases/download/v2.59.0/Caprine-Setup-2.59.0.exe#/dl.7z",
+            "hash": "890de0ae27ff42eb8de714c0a16ce1563e74344180f41a92a7e67d0cfa508d81",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",

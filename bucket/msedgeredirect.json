@@ -1,16 +1,16 @@
 {
-    "version": "0.7.3.0",
+    "version": "0.7.5.0",
     "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
     "homepage": "https://github.com/rcmaehl/MSEdgeRedirect",
     "license": "LGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rcmaehl/MSEdgeRedirect/releases/download/0.7.3.0/MSEdgeRedirect.exe",
-            "hash": "d046c14b06347fd0053c3321828ae145e5a5a7caecde7c116d24458a8c4268ae"
+            "url": "https://github.com/rcmaehl/MSEdgeRedirect/releases/download/0.7.5.0/MSEdgeRedirect.exe",
+            "hash": "35575a8faceb15ccef026d1043546424ae7b24e9ca94b0042b13f7cb012e56fd"
         },
         "32bit": {
-            "url": "https://github.com/rcmaehl/MSEdgeRedirect/releases/download/0.7.3.0/MSEdgeRedirect_x86.exe#/MSEdgeRedirect.exe",
-            "hash": "778581273409edd2590e1b023dd7ee0029720a059fda3b413f59c9b564c6f4ba"
+            "url": "https://github.com/rcmaehl/MSEdgeRedirect/releases/download/0.7.5.0/MSEdgeRedirect_x86.exe#/MSEdgeRedirect.exe",
+            "hash": "471718190cd6ddc3417db0250b20785dae9fa5afd38a9499a6a2d1e4a39ef222"
         }
     },
     "shortcuts": [

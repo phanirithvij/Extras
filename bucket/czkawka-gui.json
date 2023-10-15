@@ -1,5 +1,5 @@
 {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "description": "Find duplicates, empty folders, similar images, unnecessary files, etc.",
     "homepage": "https://github.com/qarmin/czkawka",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qarmin/czkawka/releases/download/6.0.0/windows_czkawka_gui.zip",
-            "hash": "0bc0db8f927fd79d3dbbb4cbcc7f4c80587be941322eca2317d871d5d7c59667"
+            "url": "https://github.com/qarmin/czkawka/releases/download/6.1.0/windows_czkawka_gui.zip",
+            "hash": "369b735b40860dc6e84634245cc386fe9d03fc1739a5283684bddcbc282dac65"
         }
     },
     "shortcuts": [
